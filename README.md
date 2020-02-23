@@ -12,6 +12,7 @@ The docker image comes with all dependency packages installed so no need worry a
 
 3. Place all test images in _test-images-folder_.
 4. Now all you have to do is run this command:
+
 `docker run -it --rm -v <src-test_images_dir>:/Validation_Images kirankt1995/philips_tech_xperience:latest python -W ignore classification_model.py`.
 
-**Note: Pass in the absolute path in `<src-test_images_dir>` of your _test-images-folder_**
+**Note: Pass in the absolute path in `<src-test_images_dir>` of your _test-images-folder_.**
