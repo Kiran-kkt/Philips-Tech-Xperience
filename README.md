@@ -6,7 +6,7 @@ This repository delivers the solution to the image classification problem as cha
 The docker image has been uploaded to a docker-hub repository.
 
 1. Firstly, make sure that the docker has been installed on your system and up-and-running properly. If incase not, then [follow this link](https://docs.docker.com/install/linux/docker-ce/ubuntu/).
-2. Pull the docker image from the docker repository using `~$ docker pull kirankt1995/philips_tech_xperience` command. Incase the docker is run as root use `sudo` like `~$ sudo docker pull kirankt1995/philips_tech_xperience`.
+2. Pull the docker image from the docker repository using `~$ docker pull kirankt1995/philips_tech_xperience` command. Incase the docker is run as root, use `sudo` like `~$ sudo docker pull kirankt1995/philips_tech_xperience`.
 
 This docker image comes with all dependency packages installed so there is no need to worry about dependency anxeity :grinning:. An empty folder `/Validation_Images` is also created so one can mount their _test-images-folder_ on host to this folder while running the image in a container.
 
