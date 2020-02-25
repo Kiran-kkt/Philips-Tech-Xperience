@@ -20,4 +20,4 @@ This docker image comes with all dependency packages installed so there is no ne
 ## Example
 A sample output of a test run.
 
-![alt text](sample test output.png "Sample Test Output")
+![alt text](https://github.com/Kiran-kkt/Philips-Tech-Xperience/blob/master/sample%20test%20output.png "Sample Test Output")
