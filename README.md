@@ -16,3 +16,8 @@ This docker image comes with all dependency packages installed so there is no ne
 `~$ docker run -it --rm -v <src-test_images_dir>:/Validation_Images kirankt1995/philips_tech_xperience:latest python -W ignore classification_model.py`.
  
 **Note: Pass in the absolute path in `<src-test_images_dir>` of your _test-images-folder_.**
+
+## Example
+A sample output of a test run.
+
+![alt text](sample test output.png "Sample Test Output")
